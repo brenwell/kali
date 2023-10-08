@@ -1,0 +1,1 @@
+docker run -t -p 80:80 -i my-kali
